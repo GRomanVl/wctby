@@ -1,6 +1,7 @@
 .header{
     background-color: cornflowerblue;
 }
+
 .main{
     margin: 0;
     padding: 0;
@@ -13,4 +14,19 @@
     font-size: 30px;
     background-color: darkkhaki;
     border: darkmagenta 6px dotted;
+}
+.foot{
+
+    width: 600px;
+    height: 150px;
+    background-color: darkseagreen;
+    text-anchor: initial;
+    bottom: auto;
+}
+a {
+    text-decoration: none;
+    font-size: 16pt;
+    color: black;
+    
+
 }
